@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @tbrown034
-- 👀 I’m interested in the intersection of web development and journalim. 
-- 🌱 I’m currently learning to be a fullstack engineer.
-- 📫 How to reach me: tbrown034@gmail.com. tbrownokc on Twitter
+- 👋 Hi, I’m @tbrown034 on github, gmail and other places.
+- 👀 After recently making a job move to learn to become a full-stack web/software engineer, I'm now looking for new opportunites in journalism, tech or preferably something at the intersection of both of those. 
+- 📫 How to reach me: tbrown034@gmail.com.
 
 <!---
 tbrown034/tbrown034 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
