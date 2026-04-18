@@ -1,8 +1,28 @@
-- 👋 Hi, I’m @tbrown034 on github, gmail and other places.
-- 👀 After nearly two decades of reporting, I recently made a move to become a full-stack web/software engineer. I'm now looking for new opportunites in journalism, tech or preferably something at the intersection of both of those. 
-- 📫 How to reach me: tbrown034@gmail.com.
+# Trevor Brown
 
-<!---
-tbrown034/tbrown034 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Journalist turned developer based in Bloomington, IN.
+
+I spent nearly two decades in newsrooms -- reporting, building data tools, and turning public records into stories. Now I build the tech that makes that work possible.
+
+## What I Build
+
+- **Data tools for journalism** -- searchable databases, public records trackers, interactive visualizations
+- **Newsroom tech** -- dashboards, content management, automation
+- **Web applications** -- production sites serving real users and real traffic
+
+## Current Projects
+
+- [Open Cabinet](https://open-cabinet.vercel.app) -- Financial disclosure tracker for U.S. executive branch officials
+- [Capitol Releases](https://capitol-releases.vercel.app) -- Congressional press release tracker and analyzer
+- [News Pulse](https://news-alert-eta.vercel.app) -- Real-time news intelligence dashboard
+
+## Stack
+
+Next.js, React, TypeScript, Tailwind CSS, D3.js, Python, Vercel
+
+## Links
+
+- [Portfolio](https://trevorthewebdeveloper.com)
+- [LinkedIn](https://www.linkedin.com/in/trevorabrown)
+- trevorbrown.web@gmail.com
+
