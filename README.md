@@ -12,9 +12,10 @@ I spent nearly two decades in newsrooms -- reporting, building data tools, and t
 
 ## Current Projects
 
-- [Open Cabinet](https://open-cabinet.vercel.app) -- Financial disclosure tracker for U.S. executive branch officials
-- [Capitol Releases](https://capitol-releases.vercel.app) -- Congressional press release tracker and analyzer
-- [News Pulse](https://news-alert-eta.vercel.app) -- Real-time news intelligence dashboard
+- [Open Cabinet](https://open-cabinet.org) -- Financial disclosure tracker for U.S. executive branch officials
+- [Capitol Releases](https://capitolreleases.com) -- Congressional press release tracker and analyzer
+- [News Pulse](https://news-pulse.org) -- Real-time news intelligence dashboard
+- [Keith Brown DDS](https://keithbrowndds.com) -- Production dental practice website (active Google Ads)
 
 ## Stack
 
