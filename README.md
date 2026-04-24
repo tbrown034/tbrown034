@@ -15,6 +15,7 @@ I spent nearly two decades in newsrooms -- reporting, building data tools, and t
 - [Open Cabinet](https://open-cabinet.org) -- Financial disclosure tracker for U.S. executive branch officials
 - [Capitol Releases](https://capitolreleases.com) -- Congressional press release tracker and analyzer
 - [News Pulse](https://news-pulse.org) -- Real-time news intelligence dashboard
+- [Delegation Decoded](https://delegation-decoded.vercel.app) -- Congressional accountability tracker organized by state delegation. 538 members, legislation, votes, campaign finance, and press releases.
 - [Keith Brown DDS](https://keithbrowndds.com) -- Production dental practice website (active Google Ads)
 
 ## Stack
