@@ -41,10 +41,16 @@ I spent 15 years in newsrooms — reporting, building data tools, and turning pu
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://foiatracker.org">
+        <img src="https://trevorthewebdeveloper.com/images/demos/foia-tracker-desktop-light.png" alt="FOIA Tracker" />
+      </a>
       <p><strong><a href="https://foiatracker.org">FOIA Tracker</a></strong><br/>
       Federal FOIA backlog dashboard. Normalizes public FOIA.gov datasets (FY2008–FY2024 annual plus quarterly reports) into a queryable Next.js app that ranks federal agencies by backlog, backlog change, oldest pending requests, staffing context, and exemption invocations.</p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://trevorthewebdeveloper.com">
+        <img src="https://trevorthewebdeveloper.com/images/demos/portfolio-desktop-light.png" alt="Portfolio" />
+      </a>
       <p><strong><a href="https://trevorthewebdeveloper.com">Portfolio</a></strong><br/>
       My personal site — selected journalism clips, data visualizations, and the web projects above, with live demos and write-ups. Next.js, Tailwind, Vercel.</p>
     </td>
