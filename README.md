@@ -2,7 +2,7 @@
 
 Journalist turned developer based in Bloomington, IN.
 
-I spent nearly two decades in newsrooms — reporting, building data tools, and turning public records into stories. Now I build the tech that makes that work possible.
+I spent 15 years in newsrooms — reporting, building data tools, and turning public records into stories. Now I build the tech that makes that work possible.
 
 ## Current Projects
 
@@ -29,7 +29,7 @@ I spent nearly two decades in newsrooms — reporting, building data tools, and 
         <img src="https://trevorthewebdeveloper.com/images/demos/capitol-releases-desktop-light.png" alt="Capitol Releases" />
       </a>
       <p><strong><a href="https://capitolreleases.com">Capitol Releases</a></strong><br/>
-      Archival-grade database of every press release from all 100 U.S. senators since January 2025 — 35,000+ records, four daily updates, full-text search and deletion tombstones.</p>
+      Archival-grade database of every press release from all 535 members of Congress since January 2025 — 35,000+ records, four daily updates, full-text search and deletion tombstones.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://news-pulse.org">
